@@ -16,7 +16,9 @@ Updated English portfolio for the existing **LCT-dotcom/LCT-Profile** GitHub rep
 3. Check **Settings → Pages**. Direct static files support **Deploy from a branch**.
 4. Open the published URL shown by GitHub and verify the downloads.
 
-The usual project-site URL is `https://lct-dotcom.github.io/LCT-Profile/`; this task has not deployed or verified that URL. A future user-site repository would be named `LCT-dotcom.github.io`.
+Live portfolio: [lct-dotcom.github.io/LCT-Profile](https://lct-dotcom.github.io/LCT-Profile/). GitHub Pages publishes the root of the main branch.
+
+Project repositories: [Medical Imaging Labs](https://github.com/LCT-dotcom/medical-imaging-labs) and [Jarvis Research Assistant](https://github.com/LCT-dotcom/jarvis-research-assistant).
 
 [Official publishing-source documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
